@@ -1,0 +1,24 @@
+body {
+  background: green !important;
+}
+p {
+  color: white;
+}
+body {
+  font-family: Tahoma;
+  background: yellow;
+  line-height: 2em;
+}
+.primary-text {
+  color: #3b5998;
+}
+.btn,
+.primary-btn {
+  padding: 10px 15px;
+  border: none;
+}
+.primary-btn {
+  background: #3b5998;
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */
