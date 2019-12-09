@@ -1,1 +1,54 @@
-h1{font-family:"PT Sans";src:url("../fonts/PT Sans.eot");src:url("../fonts/PT Sans.eot?#iefix") format("eot"),url("../fonts/PT Sans.woff") format("woff"),url("../fonts/PT Sans.ttf") format("truetype"),url("../fonts/PT Sans.svg#webfont") format("svg");color:#808080}h2{font-family:"PT Sans";src:url("../fonts/PT Sans.eot");src:url("../fonts/PT Sans.eot?#iefix") format("eot"),url("../fonts/PT Sans.woff") format("woff"),url("../fonts/PT Sans.ttf") format("truetype"),url("../fonts/PT Sans.svg#webfont") format("svg");color:#f00}h3{font-family:"PT Sans";src:url("../fonts/PT Sans.eot");src:url("../fonts/PT Sans.eot?#iefix") format("eot"),url("../fonts/PT Sans.woff") format("woff"),url("../fonts/PT Sans.ttf") format("truetype"),url("../fonts/PT Sans.svg#webfont") format("svg");color:#008000}h4{font-family:"PT Sans";src:url("../fonts/PT Sans.eot");src:url("../fonts/PT Sans.eot?#iefix") format("eot"),url("../fonts/PT Sans.woff") format("woff"),url("../fonts/PT Sans.ttf") format("truetype"),url("../fonts/PT Sans.svg#webfont") format("svg");color:#ffa500}h5{font-family:"PT Sans";src:url("../fonts/PT Sans.eot");src:url("../fonts/PT Sans.eot?#iefix") format("eot"),url("../fonts/PT Sans.woff") format("woff"),url("../fonts/PT Sans.ttf") format("truetype"),url("../fonts/PT Sans.svg#webfont") format("svg");color:#800080}h6{font-family:"PT Sans";src:url("../fonts/PT Sans.eot");src:url("../fonts/PT Sans.eot?#iefix") format("eot"),url("../fonts/PT Sans.woff") format("woff"),url("../fonts/PT Sans.ttf") format("truetype"),url("../fonts/PT Sans.svg#webfont") format("svg");color:#000}
+h1 {
+  font-family: "PT Sans";
+  color: #808080;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: url("../fonts/PTS55F-webfont.eot");
+  src: url("../fonts/PTS55F-webfont.eot?#iefix") format("eot"), url("../fonts/PTS55F-webfont.woff") format("woff"), url("../fonts/PTS55F-webfont.ttf") format("truetype"), url("../fonts/PTS55F-webfont.svg#webfont") format("svg");
+}
+h2 {
+  font-family: "PT Sans";
+  color: #ff0000;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: url("../fonts/PTS55F-webfont.eot");
+  src: url("../fonts/PTS55F-webfont.eot?#iefix") format("eot"), url("../fonts/PTS55F-webfont.woff") format("woff"), url("../fonts/PTS55F-webfont.ttf") format("truetype"), url("../fonts/PTS55F-webfont.svg#webfont") format("svg");
+}
+h3 {
+  font-family: "PT Sans";
+  color: #008000;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: url("../fonts/PTS55F-webfont.eot");
+  src: url("../fonts/PTS55F-webfont.eot?#iefix") format("eot"), url("../fonts/PTS55F-webfont.woff") format("woff"), url("../fonts/PTS55F-webfont.ttf") format("truetype"), url("../fonts/PTS55F-webfont.svg#webfont") format("svg");
+}
+h4 {
+  font-family: "PT Sans";
+  color: #ffa500;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: url("../fonts/PTS55F-webfont.eot");
+  src: url("../fonts/PTS55F-webfont.eot?#iefix") format("eot"), url("../fonts/PTS55F-webfont.woff") format("woff"), url("../fonts/PTS55F-webfont.ttf") format("truetype"), url("../fonts/PTS55F-webfont.svg#webfont") format("svg");
+}
+h5 {
+  font-family: "PT Sans";
+  color: #800080;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: url("../fonts/PTS55F-webfont.eot");
+  src: url("../fonts/PTS55F-webfont.eot?#iefix") format("eot"), url("../fonts/PTS55F-webfont.woff") format("woff"), url("../fonts/PTS55F-webfont.ttf") format("truetype"), url("../fonts/PTS55F-webfont.svg#webfont") format("svg");
+}
+h6 {
+  font-family: "PT Sans";
+  color: #000000;
+}
+@font-face {
+  font-family: "PT Sans";
+  src: url("../fonts/PTS55F-webfont.eot");
+  src: url("../fonts/PTS55F-webfont.eot?#iefix") format("eot"), url("../fonts/PTS55F-webfont.woff") format("woff"), url("../fonts/PTS55F-webfont.ttf") format("truetype"), url("../fonts/PTS55F-webfont.svg#webfont") format("svg");
+}
