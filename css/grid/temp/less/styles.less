@@ -1,0 +1,25 @@
+@background-color: #eee;
+@font-family: Tahoma;
+@primary-color: #3b5998;
+@secondary-color: #20b2aa;
+@line-hight: 1em + 1em;
+
+body {
+  font-family: @font-family;
+  background: @background-color;
+  line-height: @line-hight;
+}
+
+.primary-text {
+  color: @primary-color;
+}
+
+.btn {
+  padding: 10px 15px;
+  border: none;
+}
+
+.primary-btn:extend(.btn) {
+  background: @primary-color;
+  color: #fff;
+}
